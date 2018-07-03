@@ -6,6 +6,6 @@ class Main extends Template
 {    
     protected function _prepareLayout()
     {
-    	$this->setMessage('Hello team, whatzz up...');    
+    	$this->setMessage('Hello Again World');    
     }
 }
