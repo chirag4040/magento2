@@ -1,6 +1,6 @@
 {
     "name": "simple/first",
-    "description": "My awesome example extension",
+    "description": "Simple Magento 2 frontend module with all setup script for beginner",
     "require": {
         "magento/magento-composer-installer": "*"
     },
